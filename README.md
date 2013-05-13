@@ -1,0 +1,4 @@
+TesseractOCRSample
+==================
+
+tesseract-ocrのサンプル
